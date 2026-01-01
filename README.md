@@ -11,3 +11,6 @@ python main.py [list-of-grades] [list-of-ects]
 ```
 python main.py [4,7,12,4,10] [5,5,10,5,10]
 ```
+
+> [!NOTE]
+> Ensure that the two lists are of equal length.
